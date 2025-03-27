@@ -1,0 +1,87 @@
+[
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "johndoe@example.com",
+      "username": "john_doe91",
+      "phone": "+1-555-123-4567",
+      "address": {
+        "street": "123 Main St",
+        "city": "Springfield",
+        "state": "IL",
+        "zipCode": "62704",
+        "country": "USA"
+      },
+      "dateOfBirth": "1991-05-15",
+      "gender": "Male",
+      "occupation": "Software Engineer"
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "email": "janesmith@example.com",
+      "username": "jane_smith22",
+      "phone": "+44-7700-900123",
+      "address": {
+        "street": "456 Oak Ave",
+        "city": "London",
+        "state": "England",
+        "zipCode": "SW1A 1AA",
+        "country": "UK"
+      },
+      "dateOfBirth": "1987-08-23",
+      "gender": "Female",
+      "occupation": "Graphic Designer"
+    },
+    {
+      "firstName": "Carlos",
+      "lastName": "Gonzalez",
+      "email": "carlosg@example.com",
+      "username": "carlos_g92",
+      "phone": "+34-612-345-678",
+      "address": {
+        "street": "789 Calle Mayor",
+        "city": "Madrid",
+        "state": "Madrid",
+        "zipCode": "28001",
+        "country": "Spain"
+      },
+      "dateOfBirth": "1992-11-30",
+      "gender": "Male",
+      "occupation": "Data Analyst"
+    },
+    {
+      "firstName": "Aisha",
+      "lastName": "Khan",
+      "email": "aisha.k@example.com",
+      "username": "aisha_khan89",
+      "phone": "+92-312-3456789",
+      "address": {
+        "street": "321 Jasmine Road",
+        "city": "Lahore",
+        "state": "Punjab",
+        "zipCode": "54000",
+        "country": "Pakistan"
+      },
+      "dateOfBirth": "1989-04-10",
+      "gender": "Female",
+      "occupation": "Doctor"
+    },
+    {
+      "firstName": "Liam",
+      "lastName": "O'Connor",
+      "email": "liamo@example.com",
+      "username": "liam_oconnor78",
+      "phone": "+353-87-654-3210",
+      "address": {
+        "street": "567 Green St",
+        "city": "Dublin",
+        "state": "Leinster",
+        "zipCode": "D02 XY67",
+        "country": "Ireland"
+      },
+      "dateOfBirth": "1978-12-05",
+      "gender": "Male",
+      "occupation": "Professor"
+    }
+  ]
