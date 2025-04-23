@@ -1,5 +1,4 @@
-import { Routing } from './routing/Routing'
-import { AuthContextProvider } from './context/Auth/AuthContextProvider';
+import Emploees from './pages/Emploees'
 import './App.css'
 
 
@@ -7,10 +6,9 @@ import './App.css'
 function App() {
 
   return (
-    <AuthContextProvider>
-      <Routing />
-    </AuthContextProvider>
-  );
-};
+    <Emploees />
 
-export default App
+  )
+}
+
+export default App;
